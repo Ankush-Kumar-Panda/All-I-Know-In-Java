@@ -20,8 +20,3 @@
 
 - [Open a new issue](https://github.com/TheAlgorithms/Java/issues/new).Be sure to include a **title and a clear description** and a **test case** demonstrating the expected behavior that is not occurring.
 
-#### **Do you have questions about the source code?**
-
-- Ask any question about how to use the repository in the [TheAlgorithms room in GITTER](https://gitter.im/TheAlgorithms/community?source=orgpage#) or [open a new issue](https://github.com/TheAlgorithms/Java/issues/new)
-
-:+1::tada: That's all you need to know about the process now it's your turn to help us improve the repository, thank you again! :+1::tada:
